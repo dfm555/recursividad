@@ -21,9 +21,10 @@ public class Main {
 //        System.out.println("Fin Ejercicio 5 ");
           //System.out.println("Valor ejercicio 6 "+ Ejercicio6.ejercicio6(1,20));
           //System.out.println("Valor ejercicio 11 "+ Ejercicio11.ejercicio11(9));
-          System.out.println("Valor ejercicio 26 "+ Ejercicio26.ejercicio26(5));
+          //System.out.println("Valor ejercicio 26 "+ Ejercicio26.ejercicio26(5));
 //        System.out.println("Valor Ejercicio 27 " + Ejercicio27.ejercicio27(6,1));
 //        System.out.println("Valor Ejercicio 28 " + Ejercicio28.sumatoria28(33,1,2));
+        System.out.println("Valor Ejercicio 31 " + Ejercicio31.ejercicio31(5));
 //        System.out.println("Valor Ejercicio 50 " + Ejercicio50.sen( 0.78539816339f, 4));
     }
 }
