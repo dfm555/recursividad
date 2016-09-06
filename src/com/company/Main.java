@@ -1,5 +1,9 @@
 package com.company;
 
+import com.company.Cadenas.Cadenas;
+
+import javax.xml.soap.SOAPPart;
+
 public class Main {
 
     public static void main(String[] args) {
@@ -24,7 +28,10 @@ public class Main {
           //System.out.println("Valor ejercicio 26 "+ Ejercicio26.ejercicio26(5));
 //        System.out.println("Valor Ejercicio 27 " + Ejercicio27.ejercicio27(6,1));
 //        System.out.println("Valor Ejercicio 28 " + Ejercicio28.sumatoria28(33,1,2));
-        System.out.println("Valor Ejercicio 31 " + Ejercicio31.ejercicio31(5));
+        //System.out.println("Valor Ejercicio 31 " + Ejercicio31.ejercicio31(3));
 //        System.out.println("Valor Ejercicio 50 " + Ejercicio50.sen( 0.78539816339f, 4));
+        //cadenas
+        System.out.println(Cadenas.ejercicio1("Duber Fernando","Duber Fernando"));
+        System.out.println(Cadenas.ejercicio17("Aereo aeropuerto murcielago"));
     }
 }
